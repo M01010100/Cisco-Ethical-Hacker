@@ -1,0 +1,1 @@
+# MODULE 2 Planning and Scoping a Penetration Testing Assessment

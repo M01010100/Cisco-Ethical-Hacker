@@ -72,3 +72,24 @@
 
 # 1.3
 
+**Lab enviroment**
+
+- Can be simplistic with two vms on a virtual switch
+
+- or more elaborate like a multivm/network enviroment with multipl,e targets and hosts
+
+- General Requirements
+    - closed Network
+    - Virtualized and Realistic Enviroment
+    - Health Monitoring
+    - sufficent Resources : CPU/Ram
+    - multi OS
+    - Duplicate Tools
+    - practice target
+
+**[h4cker github repo](https://github.com/The-Art-of-Hacking/h4cker)** 
+
+- Should be fixable
+
+- Lab : install virt box and kaliVM from cisco
+- Lab : Kali linux
