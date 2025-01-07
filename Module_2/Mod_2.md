@@ -46,3 +46,39 @@
 - Confidentiality : how to communicate and handle sesitive data, ex. account credentials
 - Disclamer : statements such as pentest report cannot and does not protect against personal or business loss resulting from the test agreement. 
 - NDA : handle confidential material, knowledge, and information that should be kept conf. 
+
+# 2.2 Scoping and Organizational or Customer Requirements
+
+**Rules of Engagement**
+- Testing Timeline: Weeks **Gantt Chart**
+- Location: headquaters
+- Time window: 9-5pm
+- Method of comunication: Final Report and status updates
+- Security contrtols that detect/prevent testing: IPS, firewall, DLP
+- IP address range
+- Testing Type: Web applications, No SQL Inject
+
+**Target List and In-Scope Assets**
+- prre-engagemnet tasks
+- [SOAP](https://www.w3.org/TR/soap)
+    - Simple Object Access Protocol
+    - An API standard that relies on XML. 
+    - accelerate testing by defining API support functions
+- [Swagger](https://swagger.io/)/ [OpenAPI](https://github.com/OAI/OpenAPI-Specification)
+    - Framework for API documentation and development
+    - REST - software architecture for web services. 
+- [WSDL](https://www.w3.org/TR/wsdl20-primer)
+    - Web Service Description Language
+- [GraphQL](https://graphql.org/learn)
+    - query Language for APIs 
+- [WADL](https://www.w3.org/Submission/wadl)
+    - Web Application Description Language
+
+# 2.3 Ethical Hacker Mindset
+- adhere to scope
+- reproting of criminal activity/network breach
+- understanding and limiting tools by engagement
+- limit invasivness based on scope
+- confidentiality
+- Personal Risks 
+
